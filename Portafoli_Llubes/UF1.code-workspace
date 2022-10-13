@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../DAM2_M04_HTML/UF1"
+		},
+		{
+			"path": "../M09_PHP"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "UF1"
+	}
+}

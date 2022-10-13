@@ -1,0 +1,138 @@
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.raya{color: aliceblue;}
+
+body{background-image: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);}
+
+.flex-container{
+    color: aliceblue;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    size: 60px;
+    width: 100%;
+    
+    }
+
+ .flex-container > div{
+        margin: 20px;
+        background-color: rgb(0, 0, 0);
+        padding: 5px;}
+
+li{
+     display: inline;
+     float: left;
+ }
+        
+ li a{background-color: rgb(0, 0, 0);
+      padding: 5px;
+    }
+
+div>ul>li>h2>a{
+    color: rgb(0, 255, 217);
+
+}
+
+#about{color: rgb(255, 255, 255);
+    width: 70%;
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(146, 0, 0);
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 90px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+#habi{color: rgba(0, 0, 0, 0.842);
+    width: 50%;
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(146, 0, 0);
+    margin-left: 400px;
+    margin-right: 100px;
+    margin-top: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(https://ouch-cdn2.icons8.com/8Ch0S_gf7Z61bPTRyrjRiKSWp_Fbnv1i6VnNcX8UIRM/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvNjg0/LzI0YWNlM2U2LTll/N2MtNDMyZC05NjJj/LTY0YjQ4MjYyYWEy/Zi5zdmc.png);
+    border: 6px solid rgb(184, 45, 45);
+    background-color: rgb(0, 0, 0);
+}
+
+#curri{color: rgb(255, 255, 255);
+    width: 50%;
+    
+    border: 5px solid rgb(146, 0, 0);
+    margin-left: 400px;
+    margin-right: 100px;
+    margin-top: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+}
+
+.foto{
+    margin-left: 2000px;
+    margin-right: 50px;
+    margin-top: -120px;
+    margin-bottom: 0px;
+    border: 4px solid rgba(255, 255, 255, 0.701);}
+
+#C{ color: rgb(255, 255, 255);
+    text-align: 550px;
+    margin-left: 50px;
+    margin-right: 100px;}
+
+#B{
+    color: rgb(246, 246, 246);
+    text-align: 550px;
+    margin-left: 50px;
+    margin-right: 100px;;
+    text-align: 550px;
+}
+#habili{color: rgb(255, 255, 255);}
+div>h2>a{text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+width: 25%;
+margin-left: 800px;}
+
+.anass{margin-left: 1950px;
+    color: rgb(255, 255, 255);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+border: 4px solid rgb(255, 255, 255);}
+
+.cv{background-image: url(https://cdn-icons-png.flaticon.com/512/2807/2807415.png);
+    color: aliceblue;}
+
+.footer{text-align: 900px;
+    margin-left: 90px;
+    margin-right: 100px;
+    background-image: url(https://www.nicepng.com/png/full/293-2930473_see-more-events-footer-png.png);
+    transition-property: all;
+    transition-duration: 0.8s;
+    transition-timing-function: ease;
+    transition-delay: 0s;}
+
+#pro{color: rgb(255, 255, 255);
+    width: 50%;
+    
+    border: 5px solid rgb(146, 0, 0);
+    margin-left: 400px;
+    margin-right: 100px;
+    margin-top: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(0, 0, 0);
+background-image: url(https://www.solofondos.com/wp-content/uploads/2015/11/FILE_A4142C-73FE08-A7FC02-E047F3-FD4C04-A2FEFB.jpg);}
+
+
+.projecte{background-color: aliceblue;
+    color: black;
+    border: 6px solid rgb(255, 145, 0);}
+
